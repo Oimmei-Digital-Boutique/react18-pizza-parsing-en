@@ -1,0 +1,20 @@
+.querystring-writer {
+  text-align: center;
+  padding: 32px;
+}
+
+.querystring-reader {
+  text-align: center;
+  padding: 32px;
+}
+
+.pizza-info {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.bold {
+  font-weight: bold;
+}
